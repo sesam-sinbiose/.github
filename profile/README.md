@@ -1,13 +1,12 @@
 ##  🙋‍♀️ Introduction
 
-SESAM - SinBiose is a scientific knowledge synthesis project , coordinated by Fiocruz-Brazil, and integrated in the SinBiose-CNPq. 
-The Center for Synthesis in Biodiversity and Ecosystem Services (SinBiose) is a research program of the National Council for Scientific and Technological Development (CNPq)
-dedicated to generating strategic knowledge to address socio-environmental challenges and support public policies.  
-
+SESAM-SinBiose is a scientific knowledge synthesis project coordinated by Fiocruz (Brazil) and integrated into the SinBiose-CNPq center. 
+The Center for Synthesis in Biodiversity and Ecosystem Services (SinBiose) is a research program of the National Council for Scientific and Technological Development (CNPq) 
+dedicated to generating strategic knowledge to address socio-environmental challenges and support public policies.
 Synthesis science integrates existing data, methods, and knowledge to answer complex questions. 
+SESAM-SinBiose seeks to use a “One Health” approach to combine environmental, socioeconomic, epidemiological, and ecological information. 
 
-SESAM-Sinbiose  seek to use a “One Health” approach ti combine environmental, socioeconomic, epidemiological, and ecological information. The goal is to gain understanding 
-of how environmental changes and complex territorial dynamics influence the increased risk of zoonoses in the Amazon region.
+The goal is to gain a deeper understanding of how environmental changes and complex territorial dynamics influence the increasing risk of zoonoses in the Amazon region.
 
 ## 👩‍💻 Useful resources
 
