@@ -10,7 +10,7 @@ SESAM at [SinBiose/CNPq](https://www.gov.br/cnpq/pt-br/acesso-a-informacao/acoes
 
 Research club at [TGHN](https://lac.tghn.org/actividades-e-eventos/research-club-pt/zoonoses_amazonia/) 
 
-Wiki SESAM at [Wiki](https://github.com/sesam-sinbiose/.github/wiki)
+SESAM documentation at [Wiki](https://github.com/sesam-sinbiose/.github/wiki)
 
 <!--
 
